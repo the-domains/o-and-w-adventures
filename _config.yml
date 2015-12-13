@@ -1,7 +1,7 @@
 name: 'O&W Adventures'
 favicon: null
-layout_spectrum: 0.2908645982388407
-typography_spectrum: 0.05013707047328353
+layout_spectrum: 0.26271
+typography_spectrum: 0.49067
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.01746601890772581
-  lightness: 0.988475926220417
-  saturation: 0.21403488074429333
-  rhythmicContrast: 0.05897040432319045
+    - '#ffffff'
+    - '#7d5939'
+    - '#171812'
+    - '#b6b6b8'
+    - '#ba7b5c'
+  brandStrength: 0.25
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
