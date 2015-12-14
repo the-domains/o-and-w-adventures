@@ -1,6 +1,6 @@
 name: 'O&W Adventures'
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.89726
 typography_spectrum: 0.5146
 title: 'O&W in Los Angeles'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#305eb6'
     - '#b17b4f'
     - '#96c9f8'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.75
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
