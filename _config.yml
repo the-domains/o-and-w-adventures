@@ -1,7 +1,7 @@
 name: 'O&W Adventures'
 favicon: null
-layout_spectrum: 0.26271
-typography_spectrum: 0.49067
+layout_spectrum: 1
+typography_spectrum: 0.5146
 title: 'O&W in Los Angeles'
 cta:
   domain: null
