@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-14T02:48:22.670Z'
-dateModified: '2015-12-14T02:48:15.243Z'
+datePublished: '2015-12-14T20:49:43.968Z'
+dateModified: '2015-12-14T02:50:47.429Z'
 title: 'Halloween!'
 author: []
 sourcePath: _posts/2015-12-13-halloween.md
