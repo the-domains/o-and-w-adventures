@@ -4,8 +4,15 @@
         <description><![CDATA[O&W in Los Angeles]]></description>
         <link>http://www.theoandwblog.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 23:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 01:28:25 GMT</lastBuildDate>
         <atom:link href="http://www.theoandwblog.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christmas is almost here. ]]></title>
+            <description><![CDATA[<article><h1>Christmas is almost here. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffa565380e6dc1675776d02c1457d1f11f4f56f6.jpg"></article>]]></description>
+            <link>http://www.theoandwblog.com/christmas-is-almost-here/index.html</link>
+            <guid isPermaLink="false">6cf62503-69d5-4161-bd07-23d56e77e958</guid>
+            <pubDate>Tue, 15 Dec 2015 01:27:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[William's Birthday.]]></title>
             <description><![CDATA[<article><h1>William's Birthday.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b21065aa37ab101595bc47eedf9fde5773e62012.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theoandwblog.com/packed-and-ready-to-go/index.html</link>
             <guid isPermaLink="false">faafa0b4-1677-4b11-b2b4-2c1ebdf0abc0</guid>
             <pubDate>Mon, 14 Dec 2015 01:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halloween!]]></title>
-            <description><![CDATA[<article><h1>Halloween!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/009b95768afcc939a1df965504f33df61f039495.jpg"></article>]]></description>
-            <link>http://www.theoandwblog.com/halloween/index.html</link>
-            <guid isPermaLink="false">791d76ca-5ca5-4034-893e-56f4637c49b8</guid>
-            <pubDate>Mon, 14 Dec 2015 20:52:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
