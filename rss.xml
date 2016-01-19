@@ -4,11 +4,18 @@
         <description><![CDATA[O&W in Los Angeles]]></description>
         <link>http://www.theoandwblog.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:55:17 GMT</lastBuildDate>
         <atom:link href="http://www.theoandwblog.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Scottsdale]]></title>
+            <description><![CDATA[<article><h1>Scottsdale</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db7ee67c6ede84b740294876fd7cc48ecf86d745.jpg"></article>]]></description>
+            <link>http://www.theoandwblog.com/scottsdale/index.html</link>
+            <guid isPermaLink="false">7297d23b-ff5d-492b-b0dd-ed6968c5c58c</guid>
+            <pubDate>Tue, 19 Jan 2016 23:54:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Happy New Year!]]></title>
-            <description><![CDATA[<article><h1>Happy New Year!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da649da8-4581-44db-8c8d-3525e76e7b48.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Happy New Year!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/839ebcf42c6b8f267f843f6b73a837371eba423b.jpg"></article>]]></description>
             <link>http://www.theoandwblog.com/happy-new-year/index.html</link>
             <guid isPermaLink="false">e7700b3c-45d2-4677-9d18-c58847d0dfbf</guid>
             <pubDate>Tue, 19 Jan 2016 23:48:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theoandwblog.com/the-bluenados/index.html</link>
             <guid isPermaLink="false">52484121-5a28-49b3-b9c1-fa8c83e20a01</guid>
             <pubDate>Mon, 14 Dec 2015 02:34:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Legoland visit. ]]></title>
-            <description><![CDATA[<article><h1>Legoland visit. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/053617a75a014c33aedc36c6ca1e4dda515e93ee.jpg"></article>]]></description>
-            <link>http://www.theoandwblog.com/legoland-visit/index.html</link>
-            <guid isPermaLink="false">1763f7fb-e4cd-42ef-8687-88ddd4696b7f</guid>
-            <pubDate>Mon, 14 Dec 2015 02:07:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
