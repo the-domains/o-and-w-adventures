@@ -4,11 +4,18 @@
         <description><![CDATA[O&W in Los Angeles]]></description>
         <link>http://www.theoandwblog.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 21:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 23:44:18 GMT</lastBuildDate>
         <atom:link href="http://www.theoandwblog.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Christmas preparations ]]></title>
+            <description><![CDATA[<article><h1>Christmas preparations </h1><p>Here are a few photos of us getting ready for Christmas!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/031241440351b9f520c45e50b15bc6c2a28c8528.jpg"></article>]]></description>
+            <link>http://www.theoandwblog.com/christmas-preparations/index.html</link>
+            <guid isPermaLink="false">20baff6b-9c10-4a1e-bbe2-3fd70f265648</guid>
+            <pubDate>Tue, 19 Jan 2016 23:43:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nan and Kris visit Village School ]]></title>
-            <description><![CDATA[<article><h1>Nan and Kris visit Village School </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d1a4cd92c35d48d6e07ba45defbe532f8851904.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Nan and Kris visit Village School </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e375445d8dee43142c87c92e5abaa95e4cfd98.jpg"></article>]]></description>
             <link>http://www.theoandwblog.com/nan-and-kris-visit-village-school/index.html</link>
             <guid isPermaLink="false">590ff7c9-0b7f-4e8c-9104-6b1bcaba6dc8</guid>
             <pubDate>Tue, 22 Dec 2015 21:29:17 GMT</pubDate>
@@ -64,17 +71,10 @@
         </item>
         <item>
             <title><![CDATA[A day in Solvang. ]]></title>
-            <description><![CDATA[<article><h1>A day in Solvang. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9543f42e19f779f14df866c0ea905676107e1ab.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A day in Solvang. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82ab7c9ee0985f7f3680c34d238be38bf6322b07.jpg"></article>]]></description>
             <link>http://www.theoandwblog.com/a-day-in-solvang/index.html</link>
             <guid isPermaLink="false">8f889ea4-6330-4709-8477-1265e4d91a5e</guid>
             <pubDate>Mon, 14 Dec 2015 01:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our final Friday Assembly at Bayfield School.]]></title>
-            <description><![CDATA[<article><h1>Our final Friday Assembly at Bayfield School.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbed844d94866051a2f92e7c9bb26d07d76123e1.jpg"></article>]]></description>
-            <link>http://www.theoandwblog.com/our-final-friday-assembly-at-bayfield-school/index.html</link>
-            <guid isPermaLink="false">447a9aef-46f9-416f-a3ba-8eaf62f1165f</guid>
-            <pubDate>Mon, 14 Dec 2015 01:54:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
