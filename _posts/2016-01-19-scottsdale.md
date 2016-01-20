@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T23:54:58.412Z'
-dateModified: '2016-01-19T23:54:45.034Z'
+datePublished: '2016-01-20T00:56:17.483Z'
+dateModified: '2016-01-20T00:56:14.350Z'
 title: Scottsdale
 author: []
+sourcePath: _posts/2016-01-19-scottsdale.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-scottsdale.md
-published: true
 url: scottsdale/index.html
 _type: Article
 
