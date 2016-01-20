@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-20T00:56:17.483Z'
+datePublished: '2016-01-20T00:56:17.505Z'
 dateModified: '2016-01-20T00:56:14.350Z'
 title: Scottsdale
 author: []
